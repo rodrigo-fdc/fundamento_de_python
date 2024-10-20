@@ -1,0 +1,21 @@
+a = 5
+
+# O SINAL DE "=" É O OPERADOR DE ATRIBUIÇÃO DO PYTHON
+
+print(a)
+
+# VARIÁVEIS NÃO COMEÇAM COM NÚMEROS
+# NÃO PODE HÁVER ESPAÇOS ENTRE NOMES
+# HÁ SÍMBOLOS PROIBIDOS
+# SOMENTE O "_" PODE SER UTILIZADO EM UMA VARIÁVEL NO PYTHON
+# O PYTHON É CASE SENSITIVE
+
+A = 6
+
+print(A * a)
+print(A + a)
+
+
+resultado_soma = A + a
+
+print(resultado_soma)
